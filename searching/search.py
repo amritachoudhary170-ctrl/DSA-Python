@@ -1,4 +1,3 @@
-# Search in a Sorted and Rotated Array
 # Input: arr[] = [5, 6, 7, 8, 9, 10, 1, 2, 3], key = 3
 # Output: 8
 # Explanation: 3 is present at index 8.
