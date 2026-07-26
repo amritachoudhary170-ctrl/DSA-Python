@@ -1,3 +1,12 @@
+# Input: arr[] = {4, 6, 10, 12, 18, 20}, K = 6 
+# Output: 
+# Lower bound of 6 is 6 at index 1 
+# Upper bound of 6 is 10 at index 2
+# Input: arr[] = {4, 6, 10, 12, 18, 20}, K = 20 
+# Output: 
+# Lower bound of 20 is 20 at index 5 
+# Upper bound doesn't exist 
+
 def lower_bound(arr, k):
     low = 0
     high = len(arr) - 1
@@ -13,7 +22,6 @@ def lower_bound(arr, k):
             low = mid + 1
 
     return ans
-
 
 def upper_bound(arr, k):
     low = 0
