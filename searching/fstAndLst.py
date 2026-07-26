@@ -10,7 +10,6 @@
 # Output: [-1, -1]
 # Explanation: No occurrence of 4 in the array, so, output is [-1, -1]
 
-
 def findLast(arr, x):
     n = len(arr)
     left = 0
