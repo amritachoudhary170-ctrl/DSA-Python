@@ -1,5 +1,3 @@
-# Unbounded Binary Search
-
 #  Keep doubling high until f(high) becomes positive. Example: 
 # high = 1 (Negative)
 # high = 2 (Negative)
