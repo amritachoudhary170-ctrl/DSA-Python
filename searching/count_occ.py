@@ -1,3 +1,4 @@
+
 # Input: arr[] = [1, 1, 2, 2, 2, 2, 3], target = 2
 # Output: 4
 # Explanation: 2 occurs 4 times in the given array.
