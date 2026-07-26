@@ -11,7 +11,6 @@
 # two cows is 3 (between arr[0] and arr[2]), which is the maximum possible among all valid arrangements
 
 
-
 def check(arr, k , distance):
     count = 1
     prev = arr[0]
