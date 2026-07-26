@@ -1,3 +1,4 @@
+# sq rt
 # Input: n = 4
 # Output: 2
 # Explanation: The square root of 4 is 2.
