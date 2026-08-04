@@ -25,5 +25,5 @@ def floorSquare(n):
     return res
 
 if __name__ == "__main__":
-    n = 16
+    n = 8
     print(floorSquare(n))
