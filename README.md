@@ -19,27 +19,7 @@ The goal is not just to solve problems, but to understand why a solution works a
 ---
 
 🛠️ Language
-
 Python 3
-
----
-
-📂 Topics Covered
-
-Topic| Focus Areas
-🔢 Arrays| Traversal, Prefix Sum, Two Pointers, Sliding Window
-🔤 Strings| Manipulation, Frequency Counting, String Patterns
-🔎 Searching| Linear Search, Binary Search
-🔄 Sorting| Basic Sorting, Comparison-Based Techniques
-🔁 Recursion| Recursive Thinking, Backtracking
-🔗 Linked Lists| Singly Linked List, Operations, Fast & Slow Pointers
-📚 Stack| Stack Operations, Monotonic Stack
-🚶 Queue| Queue, Deque, BFS
-🌳 Trees| Binary Trees, BST, Tree Traversals
-🌐 Graphs| Traversals, BFS, DFS
-💡 Dynamic Programming| Memoization, Tabulation, Common DP Patterns
-⚡ Greedy| Greedy Strategies and Optimization
-🧮 Bit Manipulation| Bitwise Operations and Common Techniques
 
 ---
 
